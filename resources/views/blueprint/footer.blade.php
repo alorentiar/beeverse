@@ -1,7 +1,7 @@
 <div class="container">
   <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
     <div class="col-md-4 d-flex align-items-center">
-      <span class="mb-3 mb-md-0 text-muted">@lang('footer.madewith') <i class="bi bi-heart-fill"></i> @lang('footer.by') Alfredo 2440093116</span>
+      <span class="mb-3 mb-md-0 text-muted">@lang('footer.madewith') <i class="bi bi-heart-fill"></i> @lang('footer.by') Alfredo </span>
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
